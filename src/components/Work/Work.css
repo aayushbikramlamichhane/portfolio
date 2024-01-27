@@ -1,0 +1,51 @@
+.portfolio-container{
+    height: 100vh;
+}
+.cards{
+    display: flex;
+}
+.card{
+    background-color: #EBF5FC;  
+    border-radius: 10px; 
+    box-shadow: 5px 5px 5px hsla(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid hsla(0, 0, 0,0.1);
+    text-align: center;
+    max-width: 250px;
+    display: inline-block;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;}
+.card-title{
+    color: #540D6E;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+
+
+
+.card-img{
+    max-width: 60%;
+    
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    
+}
+
+.view-button{
+    
+    border-radius: 5px;
+    border: 1px solid ease;
+    border-color: grey;
+    color: white;
+    margin-left: 5em;
+    width: max-content;
+    padding: 0.2em;
+    margin-top: auto;
+    align-self: flex-start;
+}

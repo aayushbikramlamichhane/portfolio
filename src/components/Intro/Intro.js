@@ -13,7 +13,8 @@ const Intro = () => {
                 Aayush Bikram <br/>Lamichhane
                 </span>
                 <br />
-            Computer Engineer
+            Computer Engineering<br/>
+            Student
            </span>
         </div>
         <img src={bg} alt='Profile' className='bg'/> 
