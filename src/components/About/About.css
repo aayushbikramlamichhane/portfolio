@@ -21,8 +21,10 @@
 
 .pp2{
     margin-top: 1.5em;
-    height: 25em;
+    height: 30em;
     width: 25em;
+    object-fit: cover;
+    object-position: 0 -25px;
     margin-left: 3em;
     border: 1px solid black;
     max-width: 100%;

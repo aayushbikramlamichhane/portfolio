@@ -9,7 +9,7 @@ return (
     
     <div className="portfolio-container">
         <h1 className="topic">My Portfolio</h1>
-        <div className="line"></div>
+        
         <div className="cards">
         <div className="card" >
             <img src={TO} className="card-img" alt="..." />

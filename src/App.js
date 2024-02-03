@@ -4,6 +4,7 @@ import About from "./components/About/About";
 import Work from "./components/Work/Work";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
+import Skills from "./components/Skills/Skills";
 function App() {
   return (
     <>
@@ -11,6 +12,7 @@ function App() {
     <NavBar/>
     <Intro/>
     <About/>
+    <Skills/>
     <Work/>
     <Contact/>
     <Footer/>

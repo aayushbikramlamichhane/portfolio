@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import bg from '../../assests/aayush.jpg' 
+import bg from '../../assests/bb.jpg' 
 const About = () => {
   return (
     <div className="abt-container">
